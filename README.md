@@ -6,8 +6,9 @@ A simulator based on Conaway's Game of Life (https://en.wikipedia.org/wiki/Conwa
 
 Stack- ReactJS, CSS, Framer Motion
 
-![image](https://user-images.githubusercontent.com/64399367/195826978-cff46dd5-a636-4dc9-a540-1fe87a18774d.png)
-![image](https://user-images.githubusercontent.com/64399367/195827037-3fdae9da-18f8-415b-a6ac-6a5c6bc181be.png)
-![image](https://user-images.githubusercontent.com/64399367/195828100-036d8ca6-2181-4fe8-be17-0f7cc8b5bec1.png)
-![image](https://user-images.githubusercontent.com/64399367/195828129-c7195547-1d9c-404d-a5b5-8f222d197377.png)
+![image](https://user-images.githubusercontent.com/64399367/195860546-661e164b-1a07-4d02-8c6d-fac3fb070756.png)
+
+![image](https://user-images.githubusercontent.com/64399367/195860326-1f3f4f2e-6a70-4931-8eec-3303b5c497a3.png)
+
+![image](https://user-images.githubusercontent.com/64399367/195859870-3c6be0f9-21a0-416d-ace2-83747d1e40fb.png)
 
