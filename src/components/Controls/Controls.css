@@ -1,0 +1,59 @@
+.controls {
+    font-family: 'Cinzel';
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    margin: 0 auto 20px auto;
+    background-image: url('../../assets/marble.jpg');
+    background-size: cover;
+}
+
+.light--mode {
+    box-shadow: 0px 10px 20px -5px rgba(0, 0, 0, 0.595);
+}
+
+.dark--mode {
+    box-shadow: 0px 10px 20px -5px  #ffd8a179 ;
+}
+
+.controls button {
+    box-shadow: 0px 0px 5px -1px rgba(130,130,130,1);
+    font-family: 'Cinzel';
+    margin: 10px 10px 10px 10px;
+}
+
+.control--btns {
+    border: 2px solid #B98900;
+    background-color: none;
+    font-size: 15px;
+}
+
+.control--btns:hover {
+    cursor: pointer;
+}
+
+.info--img {
+    margin: 5px;
+    height: 25px;
+    width: 25px;
+}
+
+.info--btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    transition: 0.2s ease-out;
+}
+
+.info--btn:hover {
+    scale: 1.2;
+}
+
+@media screen and (max-width: 768px){
+    .controls {
+        margin: 0 auto 30px 10px;
+        width: 90%;
+    }
+}
+
+/* 390 x 844 */

@@ -1,0 +1,53 @@
+:root {
+    --main-color: #dfa4e4 ;
+    --main-color-hover: #f2d1f5cd;
+    --track-color: #c59aca;
+  }
+  
+  .sliderdiv {
+    height: 20px;
+    width: 300px;
+    margin: 10px 10px 10px 10px;
+  }
+
+  .slider {
+    max-width: 300px;
+    cursor: pointer;
+
+  }
+  
+  .track {
+    box-shadow: 0px 0px 3px -1px rgba(130,130,130,1);
+    top: 8px;
+    height: 5px;
+    background: var(--track-color);
+  }
+
+  .track.track-0 {
+    background-color: var(--main-color);
+  }
+
+  .thumb {
+    background: var(--main-color);
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    outline: none;
+    transition: 0.2s ease-out;
+    text-align: center;
+    box-shadow: 0px 0px 4px -1px rgba(130,130,130,1);
+
+  }
+  
+  
+  .thumb:hover {
+    box-shadow: 0 0 0 8px var(--main-color-hover);
+  }
+
+  .marks {
+    cursor: pointer;
+    top: 5px;
+    height: 5px;
+    width: 2px;
+    background-color: var(--main-color-hover);
+  }

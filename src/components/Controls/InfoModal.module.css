@@ -1,0 +1,52 @@
+.closebtn {
+    height: 25px;
+    width: 25px;
+}
+
+.btn {
+    position: fixed;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s ease-out;
+    top: 10px;
+    left: 94%;
+}
+
+.btn:hover {
+    scale: 1.2;
+}
+
+.content {
+    font-family: 'Cinzel';
+    text-align: center;
+    padding: 15px 0 5px 0;
+}
+
+.wiki {
+    font-family: 'Cinzel';
+    color: #B98900;
+    margin: 0 0 0 325px;
+}
+
+.rulesimg {
+    margin: 10px 0 15px 40px;
+    box-shadow: 0px 14px 24px -7px rgba(0,0,0,0.75);
+}
+
+@media screen and (max-width: 768px){
+    .wiki {
+        margin: 0 0 20px 100px;
+        font-size: small;
+    }
+    
+    .btn {
+        left: 88%;
+    }
+
+    .rulesimg {
+        margin: 0 10% 0 10%;
+        width: 80%;
+        height: fit-content;
+    }
+}
