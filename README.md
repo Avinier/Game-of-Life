@@ -1,6 +1,6 @@
 ## Game Of Life
 
-Based on Conaway's Game of Life (https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+A simulator based on Conaway's Game of Life (https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 ### try it out- https://gameoflifex.netlify.app
 
