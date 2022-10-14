@@ -29,5 +29,7 @@
         left: 2%;
         flex-direction: column;
         justify-content: center;
+        z-index: 30;
+
     }
 }
